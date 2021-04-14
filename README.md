@@ -3,8 +3,12 @@
 
  🌱 Currently learning Angular and Java at the Wild Code School of Lyon.
  Interested in social impact digital services and green IT.
-
+<br />
+<br />
 ## Languages & Tools:
+ 
+<br />
+
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" height="40" style="vertical-align:top; margin:4px">
@@ -26,14 +30,17 @@
 
 ## Teamwork:
 
-Memory Game project : [JSticiers's Memory][collab]
+Memory Game project
 
 <br />
 
 ## My Github Stats:
 
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauranne-lg)
+</p>
 
+<br />
 [website]: https://github.com/Mauranne-lg
 [linkedin]: https://www.linkedin.com/in/mauranne-lagneau
 [mail]: mailto:mauranne.lagneau@gmail.com
