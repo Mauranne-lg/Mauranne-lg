@@ -31,8 +31,3 @@
 ## My Github Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauranne-lg)
-
-<br />
-https://github.com/Mauranne-lg
-https://www.linkedin.com/in/mauranne-lagneau
-mailto:mauranne.lagneau@gmail.com
