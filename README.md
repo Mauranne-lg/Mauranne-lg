@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Mauranne][website] and I am a web developer student :)
+### Hi there 👋 I'm Mauranne and I am a web developer student :)
 
 
  🌱 Currently learning Angular and Java at the Wild Code School of Lyon.
@@ -28,17 +28,11 @@
 
 <br />
 
-## Teamwork:
-
-Memory Game project
-
-<br />
-
 ## My Github Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauranne-lg)
 
 <br />
-[website]: https://github.com/Mauranne-lg
-[linkedin]: https://www.linkedin.com/in/mauranne-lagneau
-[mail]: mailto:mauranne.lagneau@gmail.com
+https://github.com/Mauranne-lg
+https://www.linkedin.com/in/mauranne-lagneau
+mailto:mauranne.lagneau@gmail.com
