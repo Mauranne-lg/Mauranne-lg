@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mauranne and I am a web developer student :)
 
- :gear: Currently learning Angular and Java at the Wild Code School of Lyon.
+ :gear: Currently learning Angular and Java at the Wild Code School of Lyon. <br>
  🌱 Interested in social impact digital services and green IT.
 
 
