@@ -33,4 +33,4 @@
 
 ## My Github Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauranne-lg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauranne-lg&theme=ayu-mirage)
