@@ -28,6 +28,9 @@
 
 <br />
 
+## :construction: Projects: 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauranne-lg&repo=UnalgarTimeline&theme=ayu-mirage)](https://github.com/Mauranne-lg/UnalgarTimeline)
+
 ## My Github Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauranne-lg)
