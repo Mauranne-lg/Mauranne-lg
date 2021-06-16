@@ -23,7 +23,7 @@
 </p>
 
 ## :construction: Projects: 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauranne-lg&repo=UnalgarTimeline&theme=ayu-mirage)](https://github.com/Mauranne-lg/unalgar-timeline)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauranne-lg&repo=unalgar-timeline&theme=ayu-mirage)](https://github.com/Mauranne-lg/unalgar-timeline)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauranne-lg&repo=SpaceTools&theme=ayu-mirage)](https://github.com/Mauranne-lg/SpaceTools)
 
