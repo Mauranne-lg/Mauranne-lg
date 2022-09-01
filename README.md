@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Mauranne and I am a web developer junior :)
+### Hi there 👋 I'm Mauranne, web developer
 
  :gear: Learned Angular and Java at the Wild Code School of Lyon. Currently discovering VueJS and Python at Hashbang. <br>
  🌱 Interested in social impact digital services and green IT.
