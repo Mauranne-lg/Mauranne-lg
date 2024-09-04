@@ -25,7 +25,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/trello/trello-plain.svg" alt="Trello" height="40" style="vertical-align:top; margin:4px">
 
 </p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauranne-lg&repo=komate&theme=ayu-mirage)](https://github.com/Mauranne-lg/komate)
 
 ## My Github Stats:
 
