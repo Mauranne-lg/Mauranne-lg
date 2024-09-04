@@ -25,15 +25,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/trello/trello-plain.svg" alt="Trello" height="40" style="vertical-align:top; margin:4px">
 
 </p>
-
-## :construction: Projects: 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauranne-lg&repo=pikaland&theme=ayu-mirage)](https://github.com/Mauranne-lg/pikaland)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauranne-lg&repo=unalgar-timeline&theme=ayu-mirage)](https://github.com/Mauranne-lg/unalgar-timeline)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauranne-lg&repo=SpaceTools&theme=ayu-mirage)](https://github.com/Mauranne-lg/SpaceTools)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauranne-lg&repo=komate&theme=ayu-mirage)](https://github.com/Mauranne-lg/komate)
 
 ## My Github Stats:
