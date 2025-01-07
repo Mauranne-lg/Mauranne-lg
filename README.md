@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Mauranne, web developer
 
- :gear: Learned Angular and Java at the Wild Code School of Lyon in 2021, then worked as a web developper for 3 years using Python/Django and VueJS at Hashbang.<br>
- 🌱 Interested in social impact digital services and green IT.
+ :gear: After 4 years as a project manager in non-profit organisations, I decided to learn programmation. I started by learning Angular and Java at the Wild Code School of Lyon in 2021, then worked as a web developper for 3 years using Python/Django and VueJS at Hashbang. I'm currently working as a back-end python web developer.<br>
+ 🌱 Interested in products with social or environmental impact and green IT.
 
 
 ## 🛠️ Languages & Tools:
